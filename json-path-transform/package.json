@@ -1,0 +1,64 @@
+{
+  "_from": "jsonpath-object-transform@^1.0.4",
+  "_id": "jsonpath-object-transform@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-rbs17AuOinTv7Ylr0HrWpJRRmP8=",
+  "_location": "/jsonpath-object-transform",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "jsonpath-object-transform@^1.0.4",
+    "name": "jsonpath-object-transform",
+    "escapedName": "jsonpath-object-transform",
+    "rawSpec": "^1.0.4",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jsonpath-object-transform/-/jsonpath-object-transform-1.0.4.tgz",
+  "_shasum": "adbb35ec0b8e8a74efed896bd07ad6a4945198ff",
+  "_spec": "jsonpath-object-transform@^1.0.4",
+  "_where": "/home/felippe/Projects/json-transform",
+  "author": {
+    "name": "David Lane",
+    "email": "me@dvdln.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dvdln/jsonpath-object-transform/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "JSONPath": "^0.10.0"
+  },
+  "deprecated": false,
+  "description": "Transform an object literal using JSONPath.",
+  "devDependencies": {
+    "bower": "^1.3.1"
+  },
+  "homepage": "https://github.com/dvdln/jsonpath-object-transform#readme",
+  "keywords": [
+    "jsonpath",
+    "json",
+    "path",
+    "object",
+    "translate",
+    "format",
+    "transform",
+    "remap",
+    "map"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "jsonpath-object-transform",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dvdln/jsonpath-object-transform.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
